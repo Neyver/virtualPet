@@ -1,0 +1,2 @@
+# virtualPet
+proyecto de tamagoshi
